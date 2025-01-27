@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PokemonApp</string>
+    <string name="settings">Ajustes</string>
+    <string name="language">Idioma</string>
+    <string name="delete_pokemon">Eliminar Pokémon</string>
+    <string name="about">Acerca de...</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="label_language">Español</string>
+    <string name="developper">Desarrollador: Naid Larhziale</string>
+</resources>
